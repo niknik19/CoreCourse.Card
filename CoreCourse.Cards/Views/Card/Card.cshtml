@@ -1,0 +1,17 @@
+﻿@using CoreCourse.Cards.Controllers
+@model Card
+
+<asp:a asp-controller="Card" asp-action="Index"> 
+    <h6>
+        <<< Back to catalogue
+    </h6>
+</asp:a>
+
+@if (Model != null)
+{
+    @await Component.InvokeAsync(nameof(Card), new { card = Model });
+}
+else
+{
+    <h2>Not found</h2>
+}

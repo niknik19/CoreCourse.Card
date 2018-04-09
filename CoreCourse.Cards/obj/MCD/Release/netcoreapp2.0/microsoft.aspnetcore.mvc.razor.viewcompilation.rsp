@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards
+--output-path=obj\MCD\Release\netcoreapp2.0\
+--application-name=CoreCourse.Cards
+--content-root=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\Card\Card.cshtml
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\Card\Index.cshtml
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\Shared\Components\Card\Default.cshtml
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\Shared\_Layout.cshtml
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\_ViewImports.cshtml
+--file=C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\Views\_ViewStart.cshtml

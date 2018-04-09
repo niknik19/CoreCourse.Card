@@ -1,0 +1,10 @@
+﻿@using CoreCourse.Cards.Controllers
+@model List<Card>
+
+
+@foreach (var card in Model)
+{
+    @await Component.InvokeAsync(nameof(Card), new { card , showDrilldown = true })
+}
+
+

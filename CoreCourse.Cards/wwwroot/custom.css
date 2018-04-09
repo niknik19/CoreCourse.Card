@@ -1,0 +1,13 @@
+﻿
+.max-width-600 {
+    max-width: 600px;
+}
+
+table td.cell-middle {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.margin-auto {
+    margin: 10px auto !important;
+}

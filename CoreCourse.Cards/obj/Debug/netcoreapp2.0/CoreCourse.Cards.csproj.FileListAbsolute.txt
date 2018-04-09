@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.AssemblyInfo.cs
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\bin\Debug\netcoreapp2.0\CoreCourse.Cards.deps.json
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\bin\Debug\netcoreapp2.0\CoreCourse.Cards.runtimeconfig.json
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\bin\Debug\netcoreapp2.0\CoreCourse.Cards.runtimeconfig.dev.json
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\bin\Debug\netcoreapp2.0\CoreCourse.Cards.dll
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\bin\Debug\netcoreapp2.0\CoreCourse.Cards.pdb
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.dll
+C:\Users\user\source\repos\CoreCourse.Cards\CoreCourse.Cards\obj\Debug\netcoreapp2.0\CoreCourse.Cards.pdb

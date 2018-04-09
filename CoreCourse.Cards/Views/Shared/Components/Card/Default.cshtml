@@ -1,0 +1,43 @@
+﻿@using CoreCourse.Cards.ViewCoponents
+@using System.Globalization;
+
+@model CardViewModel
+<table class="table table-bordered table-striped max-width-600 margin-auto">
+    <tbody>
+
+        <tr>
+            <td> Name: </td>
+            @if (Model.ShowDrilldown)
+            {
+                <td>
+                        <asp:a asp-controller="Card" asp-action="Card" asp-route-id="@Model.Card.Id">
+                            @Model.Card.FirstName
+                        </asp:a>
+                </td>
+            }
+            else
+            {
+                <td>@Model.Card.FirstName</td>
+            }
+            <td rowspan="4" class="cell-middle">
+                <img src='@Model.Card.ImageUrl'>
+            </td>
+        </tr>
+
+        <tr>
+            <td> Last Name: </td>
+            <td> @Model.Card.LastName </td>
+        </tr>
+
+        <tr>
+            <td> Date of Birth: </td>
+            <td> @Model.Card.DateOfBirth.ToString("MMMM dd, yyyy", new CultureInfo("en-us")) </td>
+        </tr>
+
+        <tr>
+            <td> Department: </td>
+            <td> @Model.Card.Department </td>
+        </tr>
+
+    </tbody>
+</table>
